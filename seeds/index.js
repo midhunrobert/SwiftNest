@@ -44,6 +44,7 @@ const seedDB = async () => {
                     filename: 'SwiftNest/ruyoaxgf72nzpi4y6cdi'
                 }
             ]
+            
         })
         await camp.save();
     }
